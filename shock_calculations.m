@@ -3,6 +3,8 @@ clc
 clf
 close all
 
+% Jake Diamond, Johns Hopkins University, jdiamo15@jhu.edu
+
 % This code solves the jump conditions for impact of two known materials
 % also calculates the temperature rise due to the shock
 
