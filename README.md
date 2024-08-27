@@ -1,4 +1,4 @@
-This code solves the 1D jump conditions for the impact of two materials with known Hugoniots. Outputs are the material particle velocity, shock velocity, shock stress, strain, and temperature. A library is included with the Hugoniot parameters for 96 materials. Bugs or comments can be reported to Jake Diamond at jdiamo15@jhu.edu. 
+This code solves the jump conditions for the impact of two materials with known Hugoniots. Outputs are the particle velocity, shock velocity, stress, strain, and temperature. A library is included with the Hugoniot parameters for a number of materials. Bugs or comments can be reported to Jake Diamond at jdiamo15@jhu.edu. 
 
 Useful references:
 
